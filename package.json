@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-coaching-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Business chatbot for sports coaching academy enquiries",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
